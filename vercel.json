@@ -1,11 +1,11 @@
 {
     "builds": [{
-        "src": "djangoprojectname/wsgi.py",
+        "src": "webbot/wsgi.py",
     }],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "djangoprojectname/wsgi.py"
+            "dest": "webbot/wsgi.py"
         }
     ]
 }
