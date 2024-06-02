@@ -1,4 +1,4 @@
-to change from development to production_deployment
+To change from development to production_deployment (vercel)
 
 
 1. settings.py 
