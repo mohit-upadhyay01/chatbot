@@ -11,4 +11,9 @@ ALLOWED_HOSTS = [] changed to ALLOWED_HOSTS = ['.vercel.app']
 
 4. app = application
 
+5. 
+# WSGI_APPLICATION = 'webbot.wsgi.application'
+WSGI_APPLICATION = 'api.wsgi.app'
+
+
 
